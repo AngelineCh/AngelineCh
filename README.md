@@ -2,13 +2,13 @@
 
 
 
-#### <i>* * Hi! Thanks for landing on my page on purpose or by accident * *</i> 👋 😁
+### <i>* * Hi! Thanks for landing on my page on purpose or by accident * *</i> 👋 😁
 
 <!--
 **AngelineCh/AngelineCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-##### I am Angeline, a fresh software engineer, still learning a lot of new exciting and challenging things.
+#### I am Angeline, a fresh software engineer, still learning a lot of new exciting and challenging things.
 
 
 <p>I am always very enthusiastic when it comes to learning new things in technology, I 
